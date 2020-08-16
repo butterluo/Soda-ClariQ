@@ -1,0 +1,682 @@
+topic_id	initial_request	clarification_need	question_id	question	rank_label
+101	find me information about the ritz carlton lake las vegas .	2	Q00697	are you looking for a specific web site	0
+101	find me information about the ritz carlton lake las vegas .	2	Q03272	would you like the history of ritz carlton lake las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q03282	would you like the location of the ritz carlton lake las vegas	1
+101	find me information about the ritz carlton lake las vegas .	2	Q03582	would you like to know the capacity of ritz carlton lake las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q03695	would you like to know where ritz carlton lake las vegas is on a map	0
+101	find me information about the ritz carlton lake las vegas .	2	Q03791	would you like to read some reviews of the ritz carlton lake las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q00740	are you looking for any specific games to play there	0
+101	find me information about the ritz carlton lake las vegas .	2	Q00808	are you looking for directions to the ritz carlton in las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01055	are you looking for the closest lake to the ritz carlton in las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01397	are you wanting a room at the ritz carlton in las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01401	are you wanting the rates for the ritz carlton in las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01457	are you wondering where the ritz carlton in las vegas is located	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01589	do you need a reservation at the ritz carlton in las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q01811	do you want historical information on the ritz carlton lake las vegas	0
+101	find me information about the ritz carlton lake las vegas .	2	Q00001	<None>	0
+106	i am looking for universal animal cuts reviews	3	Q01481	did universal animal cuts work for you	1
+106	i am looking for universal animal cuts reviews	3	Q03797	would you like to review universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q03838	would you like to see comparable products to universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q03900	would you like to see the lowest reviews for universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q03904	would you like to see the top reviews for universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q01499	did you want to know if anyone near you has tried it	0
+106	i am looking for universal animal cuts reviews	3	Q01500	did you want to know if it was effective for different levels of weight	0
+106	i am looking for universal animal cuts reviews	3	Q01501	did you want to know if the price was worth it	0
+106	i am looking for universal animal cuts reviews	3	Q02690	were you interested in how much weight people lost	0
+106	i am looking for universal animal cuts reviews	3	Q02691	were you interested in the side effects of universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q02695	were you wondering about how universal animal cuts works	0
+106	i am looking for universal animal cuts reviews	3	Q03116	why are you looking to add supplements to your diet	0
+106	i am looking for universal animal cuts reviews	3	Q03777	would you like to purchase universal animal cuts	0
+106	i am looking for universal animal cuts reviews	3	Q00001	<None>	0
+107	tell me about cass county missouri	3	Q00086	are you interested in a list of homes for sale in cass county	0
+107	tell me about cass county missouri	3	Q02613	is there any specific information that you are looking for	0
+107	tell me about cass county missouri	3	Q02671	there are some interesting historical facts about cass county shall i show them to you	0
+107	tell me about cass county missouri	3	Q03041	which neighborhood in cass county are you interested in	0
+107	tell me about cass county missouri	3	Q03051	which part of cass county are you referring to	0
+107	tell me about cass county missouri	3	Q03544	would you like to know more about the city	0
+107	tell me about cass county missouri	3	Q00685	are you looking for a specific part of missouri	1
+107	tell me about cass county missouri	3	Q00848	are you looking for government service	0
+107	tell me about cass county missouri	3	Q00976	are you looking for places to eat in cass county missouri	0
+107	tell me about cass county missouri	3	Q01469	can i help you find something on a map	0
+107	tell me about cass county missouri	3	Q01548	do you have travel plans	0
+107	tell me about cass county missouri	3	Q01995	do you want to know about the crime rate in cass county missouri	0
+107	tell me about cass county missouri	3	Q02005	do you want to know about the schools in cass county missouri	0
+107	tell me about cass county missouri	3	Q02610	is there any important documents youre trying to access	0
+107	tell me about cass county missouri	3	Q00001	<None>	0
+114	tell about an adobe indian house ?	2	Q00057	are you going to purchase any specific product related to your search	0
+114	tell about an adobe indian house ?	2	Q02475	do you wish to know the location of native american houses	0
+114	tell about an adobe indian house ?	2	Q02906	what type of adobe indian house are you looking for	0
+114	tell about an adobe indian house ?	2	Q00971	are you looking for pictures of adobe indian houses	0
+114	tell about an adobe indian house ?	2	Q00704	are you looking for a tour of adobe indian houses	1
+114	tell about an adobe indian house ?	2	Q01600	do you need any specific information about people who resided in adobe houses	0
+114	tell about an adobe indian house ?	2	Q01819	do you want information about the construction of adobe houses	0
+114	tell about an adobe indian house ?	2	Q01986	do you want to know about pueblo hopi or american indian houses	0
+114	tell about an adobe indian house ?	2	Q02264	do you want to know what adobe indian houses are made out of	0
+114	tell about an adobe indian house ?	2	Q02336	do you want to know where to find adobe indian houses	0
+114	tell about an adobe indian house ?	2	Q02379	do you want to learn how an adobe indian house is made	0
+114	tell about an adobe indian house ?	2	Q00001	<None>	0
+123	what is von willebrand disease ?	3	Q00284	are you interested in learning about treatments for von willebrand disease	0
+123	what is von willebrand disease ?	3	Q03091	which type of von willebrand disease do you want information about	0
+123	what is von willebrand disease ?	3	Q03749	would you like to learn about the symptoms of von willebrand disease	0
+123	what is von willebrand disease ?	3	Q00509	are you interested in the types of von willebrand disease	0
+123	what is von willebrand disease ?	3	Q01027	are you looking for specific information about von willebrand disease	0
+123	what is von willebrand disease ?	3	Q01821	do you want information about von willebrand disease in dogs	0
+123	what is von willebrand disease ?	3	Q01994	do you want to know about the cause of von willebrand disease	0
+123	what is von willebrand disease ?	3	Q02107	do you want to know how von willebrand disease is treated	0
+123	what is von willebrand disease ?	3	Q02821	what kind of information about von willebrand disease do you want to see	0
+123	what is von willebrand disease ?	3	Q02859	what person with von willebrand disease do you want to know about	1
+123	what is von willebrand disease ?	3	Q03001	which animal are you interested in knowing about in regards to von willebrand disease	0
+123	what is von willebrand disease ?	3	Q00001	<None>	0
+128	tell me about atypical squamous cells	2	Q00081	are you interested in a desciption of aytypical squamous cells	0
+128	tell me about atypical squamous cells	2	Q03506	would you like to know if there is a cure	0
+128	tell me about atypical squamous cells	2	Q03585	would you like to know the chance of getting atypical squamous cells	0
+128	tell me about atypical squamous cells	2	Q00146	are you interested in atypical squamous cells in a test result	1
+128	tell me about atypical squamous cells	2	Q00147	are you interested in atypical squamous cells in urine	0
+128	tell me about atypical squamous cells	2	Q02372	do you want to learn about atypical squamous cells in a pap smear	0
+128	tell me about atypical squamous cells	2	Q02373	do you want to learn about cervical cancer	0
+128	tell me about atypical squamous cells	2	Q02428	do you want to see a picture of atypical squamous cells	0
+128	tell me about atypical squamous cells	2	Q02433	do you want to see how common it it	0
+128	tell me about atypical squamous cells	2	Q03265	would you like the definition of atypical squamous cells	0
+128	tell me about atypical squamous cells	2	Q03434	would you like to know about treatment for atypical squamous cells	0
+128	tell me about atypical squamous cells	2	Q00001	<None>	0
+133	all men are created equal	2	Q00796	are you looking for declaration of independence at the national archives	0
+133	all men are created equal	2	Q03598	would you like to know the gettysburg address	0
+133	all men are created equal	2	Q03741	would you like to learn about the author of that quote	0
+133	all men are created equal	2	Q03745	would you like to learn about the origin of that quote	0
+133	all men are created equal	2	Q03764	would you like to learn more about thomas jefferson	0
+133	all men are created equal	2	Q03763	would you like to learn more about the declaration of independence	1
+133	all men are created equal	2	Q01384	are you trying to look up a speech	0
+133	all men are created equal	2	Q01385	are you trying to look up the constitution	0
+133	all men are created equal	2	Q02769	what else do you want to learn about the quote	0
+133	all men are created equal	2	Q03095	which use of that quote are you interested in	0
+133	all men are created equal	2	Q03101	who are you interested in learning about who has that quote attributed to them	0
+133	all men are created equal	2	Q03514	would you like to know its interpretation by the us supreme court	0
+133	all men are created equal	2	Q03546	would you like to know more about the declaration of independence	0
+133	all men are created equal	2	Q03543	would you like to know more about the author	0
+133	all men are created equal	2	Q00001	<None>	0
+139	tell me more about rocky mountain news	2	Q00334	are you interested in news archives	1
+139	tell me more about rocky mountain news	2	Q02899	what time period are you looking for news coverage	0
+139	tell me more about rocky mountain news	2	Q02926	what type of news are you interested in	0
+139	tell me more about rocky mountain news	2	Q03103	who do you want to find news reported by	0
+139	tell me more about rocky mountain news	2	Q03784	would you like to read recent news about the rocky mountain news	0
+139	tell me more about rocky mountain news	2	Q03814	would you like to see a list of reporters of the rocky mountain news	0
+139	tell me more about rocky mountain news	2	Q00697	are you looking for a specific web site	0
+139	tell me more about rocky mountain news	2	Q00570	are you interested inn information about the national park	0
+139	tell me more about rocky mountain news	2	Q00910	are you looking for information regarding the rocky mountain range	0
+139	tell me more about rocky mountain news	2	Q01330	are you specifically interested in the paper published in denver co	0
+139	tell me more about rocky mountain news	2	Q01337	are you talking about news in colorado	0
+139	tell me more about rocky mountain news	2	Q01812	do you want historical or recent news events	0
+139	tell me more about rocky mountain news	2	Q01957	do you want to incude both canadian and us news sources	0
+139	tell me more about rocky mountain news	2	Q02415	do you want to read geology of the mountain range	0
+139	tell me more about rocky mountain news	2	Q02464	do you want to watch news videos or read the news	0
+139	tell me more about rocky mountain news	2	Q00001	<None>	0
+142	find me information about the sales tax in illinois .	2	Q00241	are you interested in how the illinois state tax is determined	0
+142	find me information about the sales tax in illinois .	2	Q02750	what classification would you like to know the tax rate for	0
+142	find me information about the sales tax in illinois .	2	Q02787	what info about the state tax are you looking for	0
+142	find me information about the sales tax in illinois .	2	Q03018	which county do you live in	0
+142	find me information about the sales tax in illinois .	2	Q03240	would you like know who collects illinois state tax	0
+142	find me information about the sales tax in illinois .	2	Q03680	would you like to know when the illinois state tax is due	0
+142	find me information about the sales tax in illinois .	2	Q00243	are you interested in how to pay your illinois state tax	0
+142	find me information about the sales tax in illinois .	2	Q00674	are you looking for a specific form	0
+142	find me information about the sales tax in illinois .	2	Q01948	do you want to get helping completing your illinois state tax return	0
+142	find me information about the sales tax in illinois .	2	Q02300	do you want to know what the illinois state tax rate is	1
+142	find me information about the sales tax in illinois .	2	Q02342	do you want to know where your refund is or know the tax rate	0
+142	find me information about the sales tax in illinois .	2	Q02414	do you want to read articles about the tax rate or know the tax rate percentage	0
+142	find me information about the sales tax in illinois .	2	Q02493	for which year would you like to know the illinois state tax	0
+142	find me information about the sales tax in illinois .	2	Q02651	may i tell you how much the state income tax in illinois is	0
+142	find me information about the sales tax in illinois .	2	Q00001	<None>	0
+164	i am looking for information on hobby stores	4	Q00659	are you looking for a radiocontrolled plane	0
+164	i am looking for information on hobby stores	4	Q02920	what type of hobby are you looking for	1
+164	i am looking for information on hobby stores	4	Q02625	is this a hobby for an adult	0
+164	i am looking for information on hobby stores	4	Q02626	is this a hobby for child	0
+164	i am looking for information on hobby stores	4	Q02627	is this a hobby where anyone can build things	0
+164	i am looking for information on hobby stores	4	Q02629	is this for a school craft or play	0
+164	i am looking for information on hobby stores	4	Q03117	why type of hobby arts and crafts or sports	0
+164	i am looking for information on hobby stores	4	Q03124	will tihs hobby involve excercise equipment	0
+164	i am looking for information on hobby stores	4	Q00675	are you looking for a specific hobby store	0
+164	i am looking for information on hobby stores	4	Q00789	are you looking for coupons	0
+164	i am looking for information on hobby stores	4	Q00857	are you looking for hobby stores located in maryland	0
+164	i am looking for information on hobby stores	4	Q01038	are you looking for stores that are currently open	0
+164	i am looking for information on hobby stores	4	Q01869	do you want stores with physical locations or online stores	0
+164	i am looking for information on hobby stores	4	Q02032	do you want to know hours of operation	0
+164	i am looking for information on hobby stores	4	Q02836	what kind of train are you looking for	0
+164	i am looking for information on hobby stores	4	Q02844	what location do you want to find a hobby store in	0
+164	i am looking for information on hobby stores	4	Q00001	<None>	0
+165	i am looking for blue throated hummingbird	3	Q00049	are you curious about the size	0
+165	i am looking for blue throated hummingbird	3	Q03225	would you like information about their breeding	0
+165	i am looking for blue throated hummingbird	3	Q03423	would you like to know about the current population numbers of blue throated hummingbirds	0
+165	i am looking for blue throated hummingbird	3	Q03441	would you like to know anything specific related to it life style	0
+165	i am looking for blue throated hummingbird	3	Q03693	would you like to know where it originates from	0
+165	i am looking for blue throated hummingbird	3	Q03711	would you like to know where you can find them	0
+165	i am looking for blue throated hummingbird	3	Q03734	would you like to learn about how blue throated hummingbirds eat	0
+165	i am looking for blue throated hummingbird	3	Q03735	would you like to learn about how fast blue throated hummingbirds are	0
+165	i am looking for blue throated hummingbird	3	Q00286	are you interested in learning about where blue throated hummingbirds live	0
+165	i am looking for blue throated hummingbird	3	Q00749	are you looking for any specific photos	0
+165	i am looking for blue throated hummingbird	3	Q01412	are you wanting to know its scientific name	0
+165	i am looking for blue throated hummingbird	3	Q01946	do you want to find them in mexico or in the us	0
+165	i am looking for blue throated hummingbird	3	Q02117	do you want to know if blue throated hummingbirds are nice	0
+165	i am looking for blue throated hummingbird	3	Q02305	do you want to know what they look like	0
+165	i am looking for blue throated hummingbird	3	Q02385	do you want to learn more about how blue throated hummingbirds mate	0
+165	i am looking for blue throated hummingbird	3	Q02873	what similar species are you looking for	0
+165	i am looking for blue throated hummingbird	3	Q00001	<None>	1
+166	tell me information about computer programming .	3	Q00079	are you interested in a coding bootcamp	0
+166	tell me information about computer programming .	3	Q01173	are you looking to see how much computer programming lessons cost	0
+166	tell me information about computer programming .	3	Q01522	do you any specific information about computer science degree program	0
+166	tell me information about computer programming .	3	Q01599	do you need any specific information about its job market	0
+166	tell me information about computer programming .	3	Q02085	do you want to know how to do computer programming	0
+166	tell me information about computer programming .	3	Q00172	are you interested in coding courses online	0
+166	tell me information about computer programming .	3	Q00353	are you interested in programming courses for children	0
+166	tell me information about computer programming .	3	Q00443	are you interested in the history of computer programming	0
+166	tell me information about computer programming .	3	Q00631	are you looking for a job in computer programming	0
+166	tell me information about computer programming .	3	Q00785	are you looking for computer programming schools near you	0
+166	tell me information about computer programming .	3	Q00890	are you looking for information on different computer programming languages	1
+166	tell me information about computer programming .	3	Q00895	are you looking for information on jobs	0
+166	tell me information about computer programming .	3	Q00953	are you looking for nearby coding classes	0
+166	tell me information about computer programming .	3	Q00001	<None>	0
+169	what should i know about the civil war	4	Q00605	are you looking for a confederate victory	1
+169	what should i know about the civil war	4	Q02050	do you want to know how many people were killed	0
+169	what should i know about the civil war	4	Q02585	is there a certain state that you are interested in seeing battles for	0
+169	what should i know about the civil war	4	Q00707	are you looking for a union victory	0
+169	what should i know about the civil war	4	Q00667	are you looking for a specific battle	0
+169	what should i know about the civil war	4	Q00683	are you looking for a specific movie	0
+169	what should i know about the civil war	4	Q00927	are you looking for large battles	0
+169	what should i know about the civil war	4	Q01048	are you looking for the american civil war	0
+169	what should i know about the civil war	4	Q01581	do you need a list of civil war battles	0
+169	what should i know about the civil war	4	Q01866	do you want specific or general details on battles	0
+169	what should i know about the civil war	4	Q01961	do you want to know a history of all battles in the war	0
+169	what should i know about the civil war	4	Q00001	<None>	0
+174	i want to learn about rock art .	4	Q00058	are you going to purchase any specific tools	0
+174	i want to learn about rock art .	4	Q01882	do you want the history of rock art	0
+174	i want to learn about rock art .	4	Q01915	do you want to buy rock art	0
+174	i want to learn about rock art .	4	Q02096	do you want to know how to perform rock art	0
+174	i want to learn about rock art .	4	Q02481	do you wnat to decorate with rock art	0
+174	i want to learn about rock art .	4	Q03440	would you like to know anything specific about rock music	0
+174	i want to learn about rock art .	4	Q00830	are you looking for examples of rock art	0
+174	i want to learn about rock art .	4	Q00872	are you looking for information about cave painting in any location	1
+174	i want to learn about rock art .	4	Q01210	are you referring to a music genre	0
+174	i want to learn about rock art .	4	Q01388	are you trying to make art rock	0
+174	i want to learn about rock art .	4	Q01450	are you wondering what rock art is	0
+174	i want to learn about rock art .	4	Q01804	do you want examples of rock art	0
+174	i want to learn about rock art .	4	Q01841	do you want locations of rock art	0
+174	i want to learn about rock art .	4	Q01852	do you want pictures of rock art	0
+174	i want to learn about rock art .	4	Q00001	<None>	0
+18	i am looking for a wedding budget calculator	2	Q00102	are you interested in a service for wedding budgeting	0
+18	i am looking for a wedding budget calculator	2	Q02813	what is your projected budget for your wedding	0
+18	i am looking for a wedding budget calculator	2	Q02936	what was the price range you were looking for	0
+18	i am looking for a wedding budget calculator	2	Q03339	would you like to find an app for wedding budgeting	0
+18	i am looking for a wedding budget calculator	2	Q03835	would you like to see articles about wedding budgeting	1
+18	i am looking for a wedding budget calculator	2	Q00724	are you looking for advice on wedding budgeting	0
+18	i am looking for a wedding budget calculator	2	Q01489	did you want something online that does calculations for you	0
+18	i am looking for a wedding budget calculator	2	Q01514	did you want to see a wedding budget based on your income	0
+18	i am looking for a wedding budget calculator	2	Q01515	did you want to see examples of budget weddings	0
+18	i am looking for a wedding budget calculator	2	Q01516	did you want to see if there was an app to do it	0
+18	i am looking for a wedding budget calculator	2	Q01700	do you need this information for any specific part of your ceremony	0
+18	i am looking for a wedding budget calculator	2	Q02688	were you interested in a free or paid budget calculator	0
+18	i am looking for a wedding budget calculator	2	Q02717	what are your budget priorities for your wedding	0
+18	i am looking for a wedding budget calculator	2	Q00001	<None>	0
+190	find brooks brothers clearance .	2	Q00159	are you interested in brooks brothers clearance shirts	0
+190	find brooks brothers clearance .	2	Q01970	do you want to know about brooks brothers clearance center in garland nc	1
+190	find brooks brothers clearance .	2	Q02454	do you want to shop online for clothes	0
+190	find brooks brothers clearance .	2	Q03160	would you like a list of brooks brothers shoes on clearance	0
+190	find brooks brothers clearance .	2	Q03420	would you like to know about the brooks brothers clearance return policy	0
+190	find brooks brothers clearance .	2	Q03731	would you like to learn about brooks brothers clearance sales	0
+190	find brooks brothers clearance .	2	Q00594	are you looking for a brooks brothers outlet	0
+190	find brooks brothers clearance .	2	Q00940	are you looking for merchandise catalog	0
+190	find brooks brothers clearance .	2	Q00958	are you looking for online promotions	0
+190	find brooks brothers clearance .	2	Q01139	are you looking to buy a suit	0
+190	find brooks brothers clearance .	2	Q01361	are you trying to find brooks brothers clearance suits	0
+190	find brooks brothers clearance .	2	Q01708	do you need to find a brooks brothers location	0
+190	find brooks brothers clearance .	2	Q01805	do you want find clothing stores	0
+190	find brooks brothers clearance .	2	Q01830	do you want information on sales and discounts	0
+190	find brooks brothers clearance .	2	Q00001	<None>	0
+191	when can i see churchil downs	2	Q00100	are you interested in a schedule of events from churchill downs	0
+191	when can i see churchil downs	2	Q02617	is there any specific race on your mind	0
+191	when can i see churchil downs	2	Q03052	which part of churchill downs are you interested in knowing more about	0
+191	when can i see churchil downs	2	Q03601	would you like to know the history of churchill downs	0
+191	when can i see churchil downs	2	Q00485	are you interested in the racing schedule	0
+191	when can i see churchil downs	2	Q00759	are you looking for attractions near churchill downs	0
+191	when can i see churchil downs	2	Q00807	are you looking for directions to churchill downs	0
+191	when can i see churchil downs	2	Q00826	are you looking for events at churchill downs	0
+191	when can i see churchil downs	2	Q00947	are you looking for more information about churchill downs	1
+191	when can i see churchil downs	2	Q01454	are you wondering where churchill downs is	0
+191	when can i see churchil downs	2	Q02180	do you want to know the best time to visit churchill downs is	0
+191	when can i see churchil downs	2	Q02318	do you want to know where churchill downs is located	0
+191	when can i see churchil downs	2	Q00001	<None>	0
+193	where should i order dog clean-up bags	3	Q00052	are you disposing of your dog waste at home or in a designated area	0
+193	where should i order dog clean-up bags	3	Q02188	do you want to know the cost	1
+193	where should i order dog clean-up bags	3	Q02525	how many dog lean up bags were you wanting to purchase	0
+193	where should i order dog clean-up bags	3	Q03049	which online store eould you like to get the dog clean up bags from	0
+193	where should i order dog clean-up bags	3	Q03063	which price listings would you like to know	0
+193	where should i order dog clean-up bags	3	Q03331	would you like to do online shopping	0
+193	where should i order dog clean-up bags	3	Q03364	would you like to know a location to find dog clean bags	0
+193	where should i order dog clean-up bags	3	Q03675	would you like to know what they are for	0
+193	where should i order dog clean-up bags	3	Q00165	are you interested in buying some	0
+193	where should i order dog clean-up bags	3	Q00589	are you lokking for a place to purchace dog clean uo bags	0
+193	where should i order dog clean-up bags	3	Q00664	are you looking for a seller near you	0
+193	where should i order dog clean-up bags	3	Q00710	are you looking for a way to dispose your dog wast	0
+193	where should i order dog clean-up bags	3	Q00768	are you looking for biodegradable dog clean up bags	0
+193	where should i order dog clean-up bags	3	Q01051	are you looking for the best to purchase	0
+193	where should i order dog clean-up bags	3	Q01216	are you referring to a specif type of dog clean up bag	0
+193	where should i order dog clean-up bags	3	Q02138	do you want to know if they are a requirement where you live	0
+193	where should i order dog clean-up bags	3	Q00001	<None>	0
+195	where can i buy pressure washers ?	2	Q01084	are you looking for the nearest location to buy a pressure washer	0
+195	where can i buy pressure washers ?	2	Q02477	do you wish to rent a pressure washer	0
+195	where can i buy pressure washers ?	2	Q00654	are you looking for a place to buy pressure washer parts	0
+195	where can i buy pressure washers ?	2	Q01137	are you looking to buy a pressure washer	0
+195	where can i buy pressure washers ?	2	Q01169	are you looking to rent a pressure washer	0
+195	where can i buy pressure washers ?	2	Q01345	are you trying to build a pressure washer	0
+195	where can i buy pressure washers ?	2	Q01432	are you wondering how a pressure washer works	0
+195	where can i buy pressure washers ?	2	Q01444	are you wondering what a pressure washer is	0
+195	where can i buy pressure washers ?	2	Q01588	do you need a pressure washer shipped directly	0
+195	where can i buy pressure washers ?	2	Q01782	do you want a pressure washer with a certain engine	0
+195	where can i buy pressure washers ?	2	Q02408	do you want to price compare pressure washers	0
+195	where can i buy pressure washers ?	2	Q00001	<None>	1
+200	find information on ontario california airport .	3	Q01194	are you planning to take a trip on ontario or california	0
+200	find information on ontario california airport .	3	Q03301	would you like to book a hotel there	0
+200	find information on ontario california airport .	3	Q03321	would you like to buy tickets to california	0
+200	find information on ontario california airport .	3	Q03536	would you like to know more about ontarioca airport services	0
+200	find information on ontario california airport .	3	Q03520	would you like to know more about arrivals or departures	0
+200	find information on ontario california airport .	3	Q00532	are you interested in visiting ontario california airport	0
+200	find information on ontario california airport .	3	Q01620	do you need directions to ontario california airport	0
+200	find information on ontario california airport .	3	Q03298	would you like to book a flight at ontario california airport	0
+200	find information on ontario california airport .	3	Q03357	would you like to hear departure times for ontario california airport	0
+200	find information on ontario california airport .	3	Q03358	would you like to hear nes about ontario california airport	0
+200	find information on ontario california airport .	3	Q01552	do you know how long your trip will be	1
+200	find information on ontario california airport .	3	Q01568	do you mean an airport in canada	0
+200	find information on ontario california airport .	3	Q01586	do you need a map of the area would you like the website address	0
+200	find information on ontario california airport .	3	Q01733	do you need to make a booking are you travelling alone	0
+200	find information on ontario california airport .	3	Q02494	from which airport are you leaving	0
+200	find information on ontario california airport .	3	Q02621	is there anywhere in california youd like to go visit	0
+200	find information on ontario california airport .	3	Q02704	what ammendities are you looking for in your airport	0
+200	find information on ontario california airport .	3	Q03199	would you like directions from your location	0
+200	find information on ontario california airport .	3	Q00001	<None>	0
+24	tell me about diversity	4	Q00609	are you looking for a definition of diversity	0
+24	tell me about diversity	4	Q02912	what type of diversity do you need information about	0
+24	tell me about diversity	4	Q03279	would you like the legal definition of diversity	0
+24	tell me about diversity	4	Q03449	would you like to know how diversity helps or harms an organization	0
+24	tell me about diversity	4	Q03877	would you like to see results about diversity in a business setting	0
+24	tell me about diversity	4	Q00669	are you looking for a specific content related to diversity	0
+24	tell me about diversity	4	Q00822	are you looking for educational materials about diversity	0
+24	tell me about diversity	4	Q00885	are you looking for information on a specific diversity program	0
+24	tell me about diversity	4	Q01133	are you looking into diversity in hiring	1
+24	tell me about diversity	4	Q01653	do you need information on financial diversity	0
+24	tell me about diversity	4	Q01695	do you need the definition of diversity	0
+24	tell me about diversity	4	Q02567	in what setting do you need to know more about diversity	0
+24	tell me about diversity	4	Q02607	is there a specific type of diversity statistic you are looking for	0
+24	tell me about diversity	4	Q00001	<None>	0
+25	tell me more about euclid	4	Q00282	are you interested in learning about the greek mathmetician	0
+25	tell me more about euclid	4	Q02450	do you want to see works of his	0
+25	tell me more about euclid	4	Q02915	what type of euclid information are you interested in	0
+25	tell me more about euclid	4	Q00679	are you looking for a specific kind of truck	0
+25	tell me more about euclid	4	Q00602	are you looking for a company	1
+25	tell me more about euclid	4	Q01618	do you need directions to euclid ave	0
+25	tell me more about euclid	4	Q01671	do you need more information about greek history	0
+25	tell me more about euclid	4	Q01753	do you want a biography	0
+25	tell me more about euclid	4	Q01951	do you want to go to euclid elementary	0
+25	tell me more about euclid	4	Q02031	do you want to know his most important discoveries	0
+25	tell me more about euclid	4	Q02169	do you want to know related people	0
+25	tell me more about euclid	4	Q02312	do you want to know when he was alive	0
+25	tell me more about euclid	4	Q00001	<None>	0
+27	tell me about starbucks .	3	Q00112	are you interested in a specific nutritional information	0
+27	tell me about starbucks .	3	Q02055	do you want to know how many types of coffee starbucks has	0
+27	tell me about starbucks .	3	Q02446	do you want to see the starbucks menu	0
+27	tell me about starbucks .	3	Q02602	is there a specific starbucks product you need information on	0
+27	tell me about starbucks .	3	Q03073	which starbucks location do you need information for	0
+27	tell me about starbucks .	3	Q03217	would you like history information regarding starbucks	0
+27	tell me about starbucks .	3	Q03259	would you like specific information about starbucks	0
+27	tell me about starbucks .	3	Q03281	would you like the location of the nearest starbucks	0
+27	tell me about starbucks .	3	Q00498	are you interested in the stocks of starbucks	1
+27	tell me about starbucks .	3	Q00660	are you looking for a recipe	0
+27	tell me about starbucks .	3	Q00696	are you looking for a specific web page	0
+27	tell me about starbucks .	3	Q00793	are you looking for current news related to starbucks	0
+27	tell me about starbucks .	3	Q01026	are you looking for specific information about starbucks gift cards	0
+27	tell me about starbucks .	3	Q01610	do you need contact information for starbucks	0
+27	tell me about starbucks .	3	Q01625	do you need directions to the nearest starbucks	0
+27	tell me about starbucks .	3	Q02049	do you want to know how many locations starbucks has	0
+27	tell me about starbucks .	3	Q00001	<None>	0
+35	find information on hoboken	3	Q00009	are interested in the nightlife here	0
+35	find information on hoboken	3	Q02321	do you want to know where hoboken is	0
+35	find information on hoboken	3	Q02442	do you want to see points of interest in hoboken	0
+35	find information on hoboken	3	Q02460	do you want to visit hoboken	0
+35	find information on hoboken	3	Q03604	would you like to know the history of hoboken	0
+35	find information on hoboken	3	Q00858	are you looking for hoboken hotels	0
+35	find information on hoboken	3	Q00696	are you looking for a specific web page	0
+35	find information on hoboken	3	Q00727	are you looking for an apartment in hoboken	1
+35	find information on hoboken	3	Q00837	are you looking for food in hoboken	0
+35	find information on hoboken	3	Q00879	are you looking for information about the hoboken medical center	0
+35	find information on hoboken	3	Q01761	do you want a hotel in hoboken	0
+35	find information on hoboken	3	Q01799	do you want directions to hoboken	0
+35	find information on hoboken	3	Q01831	do you want information on the climate of hoboken	0
+35	find information on hoboken	3	Q00001	<None>	0
+37	tell me about pampered chef	3	Q00999	are you looking for reviews related to the pampered chef	0
+37	tell me about pampered chef	3	Q03349	would you like to find the nearest pampered chef consultant	0
+37	tell me about pampered chef	3	Q03360	would you like to host the show	0
+37	tell me about pampered chef	3	Q03894	would you like to see the current pampered chef catalog	0
+37	tell me about pampered chef	3	Q01349	are you trying to buy pampered chef	0
+37	tell me about pampered chef	3	Q01427	are you wondering about pampered chef competitors	0
+37	tell me about pampered chef	3	Q01430	are you wondering about the history of pampered chef	0
+37	tell me about pampered chef	3	Q01441	are you wondering the prices of pampered chef	0
+37	tell me about pampered chef	3	Q01448	are you wondering what pampered chef sells	1
+37	tell me about pampered chef	3	Q01903	do you want to attend a pampered chef party	0
+37	tell me about pampered chef	3	Q03295	would you like to become a pampered chef consultant	0
+37	tell me about pampered chef	3	Q03347	would you like to find pampered chef recipes	0
+37	tell me about pampered chef	3	Q00001	<None>	0
+45	give me information on solar panels .	2	Q00695	are you looking for a specific type of solar panels	1
+45	give me information on solar panels .	2	Q00898	are you looking for information on purchasing and installing solar panels	0
+45	give me information on solar panels .	2	Q01028	are you looking for specific information on solar power	0
+45	give me information on solar panels .	2	Q01061	are you looking for the cost of solar panels	0
+45	give me information on solar panels .	2	Q01641	do you need information about different types of solar panels	0
+45	give me information on solar panels .	2	Q01792	do you want annual savings totals if you install solar panels	0
+45	give me information on solar panels .	2	Q02326	do you want to know where solar panels are typically installed in a home	0
+45	give me information on solar panels .	2	Q03246	would you like money saving ideas regarding solar panels	0
+45	give me information on solar panels .	2	Q03270	would you like the historical information on solar panels	0
+45	give me information on solar panels .	2	Q00001	<None>	0
+71	find information about living in india .	3	Q00161	are you interested in buying a house in india	0
+71	find information about living in india .	3	Q02856	what part of india are you interested in	0
+71	find information about living in india .	3	Q03248	would you like more information about the challenges of living in india	0
+71	find information about living in india .	3	Q03531	would you like to know more about indian culture and history	0
+71	find information about living in india .	3	Q03732	would you like to learn about expats living in india	0
+71	find information about living in india .	3	Q03803	would you like to see a comparison of living in india versus living in the usa	0
+71	find information about living in india .	3	Q00328	are you interested in moving to india	0
+71	find information about living in india .	3	Q00410	are you interested in the best place to live in india	0
+71	find information about living in india .	3	Q00422	are you interested in the cost of living in india	0
+71	find information about living in india .	3	Q00586	are you intested in statistics on expats residing in india	0
+71	find information about living in india .	3	Q02030	do you want to know foreigners feelings about living in india	0
+71	find information about living in india .	3	Q02298	do you want to know what the best thing about living in india is	1
+71	find information about living in india .	3	Q02443	do you want to see pros and cons of living in india	0
+71	find information about living in india .	3	Q02797	what is it like today living in india	0
+71	find information about living in india .	3	Q00001	<None>	0
+74	tell me about kiwi	3	Q00247	are you interested in images of the kiwi fruit	0
+74	tell me about kiwi	3	Q03484	would you like to know how to grow kiwi fruit	0
+74	tell me about kiwi	3	Q03671	would you like to know what the kiwi fruit tastes like	0
+74	tell me about kiwi	3	Q03933	would you liketo know where kiwi fruit is grown	1
+74	tell me about kiwi	3	Q00412	are you interested in the biology of the kiwi bird	0
+74	tell me about kiwi	3	Q00902	are you looking for information on the fruit kiwi	0
+74	tell me about kiwi	3	Q00903	are you looking for information on the kiwi bird	0
+74	tell me about kiwi	3	Q00921	are you looking for kiwi birds for sale	0
+74	tell me about kiwi	3	Q00922	are you looking for kiwi fruit for sale near you	0
+74	tell me about kiwi	3	Q01259	are you referring to the fruit or the people from new zealand	0
+74	tell me about kiwi	3	Q02206	do you want to know the historical background of the kiwi people	0
+74	tell me about kiwi	3	Q02232	do you want to know the nutritional aspects of the kii fuit	0
+74	tell me about kiwi	3	Q00001	<None>	0
+8	i want to know about appraisals .	4	Q00706	are you looking for a type of appraiser	0
+8	i want to know about appraisals .	4	Q03340	would you like to find appraisers near you	0
+8	i want to know about appraisals .	4	Q03826	would you like to see a price range for appraisals	0
+8	i want to know about appraisals .	4	Q03895	would you like to see the definitions of appraisal	0
+8	i want to know about appraisals .	4	Q00756	are you looking for appraisal companies near you	0
+8	i want to know about appraisals .	4	Q01185	are you offering appraisal services	1
+8	i want to know about appraisals .	4	Q01578	do you need a home appraisal	0
+8	i want to know about appraisals .	4	Q01596	do you need an antique apprasied	0
+8	i want to know about appraisals .	4	Q02191	do you want to know the cost of an appraisal	0
+8	i want to know about appraisals .	4	Q02762	what do you need appraised	0
+8	i want to know about appraisals .	4	Q02817	what kind of appraisal are you looking for	0
+8	i want to know about appraisals .	4	Q02907	what type of appraisals do you need informatiom about	0
+8	i want to know about appraisals .	4	Q00001	<None>	0
+85	find information from the milwaukee journal sentinel .	3	Q00125	are you interested in a subscription to the milwaukee journal sentinel	0
+85	find information from the milwaukee journal sentinel .	3	Q03068	which section of the paper do you want	0
+85	find information from the milwaukee journal sentinel .	3	Q03099	which year archives are you looking for	0
+85	find information from the milwaukee journal sentinel .	3	Q03288	would you like the read the most recent article	0
+85	find information from the milwaukee journal sentinel .	3	Q03782	would you like to read about sports or news	0
+85	find information from the milwaukee journal sentinel .	3	Q00697	are you looking for a specific web site	0
+85	find information from the milwaukee journal sentinel .	3	Q01747	do you prefer long or short articles	0
+85	find information from the milwaukee journal sentinel .	3	Q01790	do you want an app for the sentinel	0
+85	find information from the milwaukee journal sentinel .	3	Q02789	what information about the history of the paper are you interested in	0
+85	find information from the milwaukee journal sentinel .	3	Q02823	what kind of information are you seeking	1
+85	find information from the milwaukee journal sentinel .	3	Q02908	what type of articles would you like to read	0
+85	find information from the milwaukee journal sentinel .	3	Q03036	which medium do you prefer the newspaper to be in	0
+85	find information from the milwaukee journal sentinel .	3	Q03067	which reporters are you interested in reading articles from	0
+85	find information from the milwaukee journal sentinel .	3	Q00001	<None>	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q01559	do you like to know about shortterm capital gains tax rate 2020	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q03186	would you like a sample of capital gains worksheet	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q03305	would you like to buy a book about this topic	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q03474	would you like to know how to avoid capital gains tax rate	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q01562	do you like to know capital gains tax on real estate	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q01768	do you want a list of the current capital gains tax rates in a table	1
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q01769	do you want a list of the most popular webster with answers to captain gains tax rate questions	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q01989	do you want to know about short term or long term capital gains tax rate	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q02705	what amount of investment income are you using the capital gains tax rate for	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q02742	what capital gains tax rate year are you looking for	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q02756	what country are you looking at the capital gains tax rate for	0
+214	what does the us capital gains tax rate consist of and how is it broken down ?	1	Q03046	which of the capital gains tax rate are you interested in	0
+219	what was the name of elvis presley's home ?	1	Q00518	are you interested in touring elvis presleys home	0
+219	what was the name of elvis presley's home ?	1	Q02310	do you want to know when elvis presleys home was built	0
+219	what was the name of elvis presley's home ?	1	Q02489	during what time period of elvis presleys life	0
+219	what was the name of elvis presley's home ?	1	Q03262	would you like the address for elvis presleys home	0
+219	what was the name of elvis presley's home ?	1	Q00531	are you interested in visiting memphis tennessee	0
+219	what was the name of elvis presley's home ?	1	Q01134	are you looking into historical homes	0
+219	what was the name of elvis presley's home ?	1	Q01172	are you looking to see how long elvis presley lived in his home	0
+219	what was the name of elvis presley's home ?	1	Q01228	are you referring to elvis presleys hometown	0
+219	what was the name of elvis presley's home ?	1	Q01261	are you referring to the house elvis presley bought in 1956 or 1957	0
+219	what was the name of elvis presley's home ?	1	Q01275	are you referring to the name of elvis presleys house	1
+219	what was the name of elvis presley's home ?	1	Q01563	do you like to know facts about elvis presley	0
+219	what was the name of elvis presley's home ?	1	Q01574	do you mean the home that elvis presley grew up in	0
+229	fine me beef stroganoff recipe	1	Q01476	can you cook from scratch	0
+229	fine me beef stroganoff recipe	1	Q03102	who are your favorite chefs	0
+229	fine me beef stroganoff recipe	1	Q03184	would you like a quick recipe	0
+229	fine me beef stroganoff recipe	1	Q03329	would you like to cook the beef stroganoff in an instant pot or do you prefer an oven	0
+229	fine me beef stroganoff recipe	1	Q01523	do you care about reviews	0
+229	fine me beef stroganoff recipe	1	Q01778	do you want a one pot recipe	0
+229	fine me beef stroganoff recipe	1	Q01877	do you want the easiest recipe	0
+229	fine me beef stroganoff recipe	1	Q02542	how much time can you spend preparing the beef stroganoff	0
+229	fine me beef stroganoff recipe	1	Q02810	what is your favorite cut of beef to be used for the recipe	0
+229	fine me beef stroganoff recipe	1	Q02855	what other specifications do you want the recipe to have	1
+229	fine me beef stroganoff recipe	1	Q02966	what would you like to make with the beef stroganoff	0
+229	fine me beef stroganoff recipe	1	Q03030	which ingredients do you want to include or exclude	0
+250	what are problems with ford edge ?	2	Q00061	are you having electrical mechanical or maintenance problems with your ford edge	0
+250	what are problems with ford edge ?	2	Q02972	what year is the ford edge that you are having problems with	0
+250	what are problems with ford edge ?	2	Q03785	would you like to read reliability reports on the ford edge	0
+250	what are problems with ford edge ?	2	Q03807	would you like to see a list of businesses near you that repair ford edges	0
+250	what are problems with ford edge ?	2	Q00385	are you interested in seeing customer reviews of the ford edge	0
+250	what are problems with ford edge ?	2	Q01090	are you looking for the recalls on the ford edge	0
+250	what are problems with ford edge ?	2	Q02434	do you want to see if there have been recalls of the ford edge	0
+250	what are problems with ford edge ?	2	Q02530	how many miles does the ford edge with problems have on it	0
+250	what are problems with ford edge ?	2	Q02747	what city and state are you looking for a ford edge repair shop in	1
+250	what are problems with ford edge ?	2	Q02865	what problems with the ford edge are you asking about transmission liftgate brakes etc	0
+250	what are problems with ford edge ?	2	Q02876	what size motor does the ford edge with problems have	0
+250	what are problems with ford edge ?	2	Q02971	what year ford edge are you inquiring about	0
+252	tell me about history of orcas island	2	Q00352	are you interested in proeuropean history of orcas island	1
+252	tell me about history of orcas island	2	Q03131	would a video on the islands historical background be helpful	0
+252	tell me about history of orcas island	2	Q03144	would you be interested in a timeline of events on orcas island	0
+252	tell me about history of orcas island	2	Q03746	would you like to learn about the origin of the name of orcas island	0
+252	tell me about history of orcas island	2	Q00474	are you interested in the natural history of orcas island	0
+252	tell me about history of orcas island	2	Q00855	are you looking for historical museums on orcas island	0
+252	tell me about history of orcas island	2	Q00882	are you looking for information from a specific era in the history of orcas island	0
+252	tell me about history of orcas island	2	Q01996	do you want to know about the first inhabitants of orcas island	0
+252	tell me about history of orcas island	2	Q01997	do you want to know about the geographical history of the island	0
+252	tell me about history of orcas island	2	Q02313	do you want to know when orcas island was discovered	0
+252	tell me about history of orcas island	2	Q02820	what kind of historical information are you looking to learn ex origin geography natural history etc	0
+252	tell me about history of orcas island	2	Q02898	what time period are you looking for information about	0
+262	find more information about baldness cure	2	Q00073	are you interested in a balding cure for men or women	1
+262	find more information about baldness cure	2	Q03611	would you like to know the latest news about balding cures	0
+262	find more information about baldness cure	2	Q03810	would you like to see a list of medical professionals who specialize in balding	0
+262	find more information about baldness cure	2	Q03828	would you like to see a reddit page on possible balding cures	0
+262	find more information about baldness cure	2	Q00090	are you interested in a natural balding cure	0
+262	find more information about baldness cure	2	Q00383	are you interested in seeing balding cure medications	0
+262	find more information about baldness cure	2	Q00460	are you interested in the latest balding cures available in 2020	0
+262	find more information about baldness cure	2	Q00814	are you looking for doctors that help with balding	0
+262	find more information about baldness cure	2	Q00982	are you looking for quick balding cures	0
+262	find more information about baldness cure	2	Q01793	do you want balding cure products	0
+262	find more information about baldness cure	2	Q01794	do you want balding cures for women	0
+262	find more information about baldness cure	2	Q03399	would you like to know about mens balding cures	0
+283	find information on hayrides in pa	2	Q00082	are you interested in a haunted hayride in pennsylvania	0
+283	find information on hayrides in pa	2	Q02861	what price range are you looking at for a hayride in pennsylvania	0
+283	find information on hayrides in pa	2	Q02919	what type of hayrides are you looking for	0
+283	find information on hayrides in pa	2	Q03143	would you be interested in a corn mae hayride in pennsylvania	0
+283	find information on hayrides in pa	2	Q00104	are you interested in a specific area in pennsylvania for hayrides	0
+283	find information on hayrides in pa	2	Q00840	are you looking for free hayrides	0
+283	find information on hayrides in pa	2	Q01527	do you have a designated date and time you would want the hayride in pennsylvania	0
+283	find information on hayrides in pa	2	Q01798	do you want directions to a certain hayride in pennsylvania	0
+283	find information on hayrides in pa	2	Q02546	how much would you like to spend on a hayride	0
+283	find information on hayrides in pa	2	Q02566	in what monh are you looking for hayrides	0
+283	find information on hayrides in pa	2	Q02568	in what town in pennsylvania are you looking for hayrides	0
+283	find information on hayrides in pa	2	Q02569	in what year are you looking for hayrides	1
+287	what are treatments for carotid cavernous fistula ?	2	Q00668	are you looking for a specific carotid cavernous fistula treatment	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02145	do you want to know more about carotid cavernous fistula treatment	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02189	do you want to know the cost of a carotid cavernous fistula treatment	1
+287	what are treatments for carotid cavernous fistula ?	2	Q02521	how is a carotid cavernous fistula diagnosed	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02522	how long does it take to treat carotid cavernous fistula	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02710	what are the symptoms of cavernous fistula	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02744	what causes carotid cavernous fistula	0
+287	what are treatments for carotid cavernous fistula ?	2	Q02795	what is carotid cavernous fistula	0
+287	what are treatments for carotid cavernous fistula ?	2	Q03799	would you like to search for a doctor for a carotid cavernous fistula treatment	0
+293	tell me about the educational advantages of social networking sites .	2	Q00016	are there any specific educational advantages you want to know more about while using social networking sites	0
+293	tell me about the educational advantages of social networking sites .	2	Q02841	what level of schooling are you interested in gaining the advantages to social networking sites	0
+293	tell me about the educational advantages of social networking sites .	2	Q02913	what type of educational advantages are you seeking from social networking	0
+293	tell me about the educational advantages of social networking sites .	2	Q03070	which social networking sites would you like information on	0
+293	tell me about the educational advantages of social networking sites .	2	Q00775	are you looking for career opportunities or educational learning online	0
+293	tell me about the educational advantages of social networking sites .	2	Q01229	are you referring to facebook instagram linkedin or twitter regarding educational advantages	0
+293	tell me about the educational advantages of social networking sites .	2	Q01570	do you mean educational advantages in career placement or college referrals	0
+293	tell me about the educational advantages of social networking sites .	2	Q01571	do you mean peer social networking or professional social networking	0
+293	tell me about the educational advantages of social networking sites .	2	Q02110	do you want to know how you get education advantages from using social networking sites	0
+293	tell me about the educational advantages of social networking sites .	2	Q02703	what ages do you want to know about education with social networking	0
+293	tell me about the educational advantages of social networking sites .	2	Q02768	what education group are you referring to high school college or trade school	1
+293	tell me about the educational advantages of social networking sites .	2	Q02818	what kind of educational advantages would you like to understand while networking	0
+110	where to go if i made a crime in brazil	3	Q01187	are you planning a trip to brazil	0
+110	where to go if i made a crime in brazil	3	Q03152	would you like a book that has lots of maps of brazil	0
+110	where to go if i made a crime in brazil	3	Q03188	would you like a transportation map of brazil	1
+110	where to go if i made a crime in brazil	3	Q03829	would you like to see a specific region of brazil	0
+110	where to go if i made a crime in brazil	3	Q03370	would you like to know about brazil political jurisdictions boundaries	0
+110	where to go if i made a crime in brazil	3	Q03512	would you like to know information about vacation in brazil	0
+110	where to go if i made a crime in brazil	3	Q01300	are you searching for a map that shows the bodies of water in brazil	0
+110	where to go if i made a crime in brazil	3	Q01730	do you need to know where to find a map of brazil	0
+110	where to go if i made a crime in brazil	3	Q01774	do you want a map of the roads in brazil	0
+110	where to go if i made a crime in brazil	3	Q02018	do you want to know an app that has maps of brazil	0
+110	where to go if i made a crime in brazil	3	Q02714	what are you trying to find in brazil	0
+110	where to go if i made a crime in brazil	3	Q02748	what city are you looking for in brazil	0
+110	where to go if i made a crime in brazil	3	Q02942	what would you like to know about brazil	0
+110	where to go if i made a crime in brazil	3	Q03050	which part of brazil do you need a map for	0
+110	where to go if i made a crime in brazil	3	Q00001	<None>	0
+118	what is poem in your pocket day ?	2	Q00414	are you interested in the canadian holiday	0
+118	what is poem in your pocket day ?	2	Q01677	do you need printable poems	0
+118	what is poem in your pocket day ?	2	Q01723	do you need to know the date for 2019	0
+118	what is poem in your pocket day ?	2	Q00718	are you looking for activities for the day	0
+118	what is poem in your pocket day ?	2	Q00829	are you looking for examples of poems to carry for poem in your pocket day	0
+118	what is poem in your pocket day ?	2	Q01044	are you looking for templates to print out for poem in your pocket day	0
+118	what is poem in your pocket day ?	2	Q01318	are you searching in relation to the event in bryant park	0
+118	what is poem in your pocket day ?	2	Q01490	did you want the know what the reasoning for having poem in your pocket day is	0
+118	what is poem in your pocket day ?	2	Q01502	did you want to know if there are activities for poem in your pocket day near you	0
+118	what is poem in your pocket day ?	2	Q01510	did you want to know when poem in your pocket day is	0
+118	what is poem in your pocket day ?	2	Q01660	do you need information related to celebrating the poem in your pocket day	1
+118	what is poem in your pocket day ?	2	Q00001	<None>	0
+126	find me a map of the us capitol	2	Q00087	are you interested in a map of capitol hill	0
+126	find me a map of the us capitol	2	Q02659	shall i order one for you	0
+126	find me a map of the us capitol	2	Q03057	which part of the us capitol are you more interested in	0
+126	find me a map of the us capitol	2	Q03180	would you like a map of every state capitol	0
+126	find me a map of the us capitol	2	Q03214	would you like historical information about us capitol maps	0
+126	find me a map of the us capitol	2	Q01294	are you referring to washington dc	0
+126	find me a map of the us capitol	2	Q01775	do you want a map of washington dc	1
+126	find me a map of the us capitol	2	Q01786	do you want a state capitol map for the us	0
+126	find me a map of the us capitol	2	Q01910	do you want to buy a map of the capitol of the us	0
+126	find me a map of the us capitol	2	Q02075	do you want to know how to access a us capitol map	0
+126	find me a map of the us capitol	2	Q02136	do you want to know if there is tour information on the us capitol map	0
+126	find me a map of the us capitol	2	Q02274	do you want to know what cities are on the us capitol map	0
+126	find me a map of the us capitol	2	Q02277	do you want to know what details are on a us capitol map	0
+126	find me a map of the us capitol	2	Q00001	<None>	0
+152	how to cure angular cheilitis	3	Q00008	are asking what the symptoms are for angular cheilits	0
+152	how to cure angular cheilitis	3	Q02076	do you want to know how to avoid angular cheilitis	0
+152	how to cure angular cheilitis	3	Q02498	have you been diagnosed with angular cheilitis	0
+152	how to cure angular cheilitis	3	Q03568	would you like to know risks associated with angular cheilitis	0
+152	how to cure angular cheilitis	3	Q00231	are you interested in home remedies for angular cheilitis	0
+152	how to cure angular cheilitis	3	Q00540	are you interested in what can cause angular cheilitis	0
+152	how to cure angular cheilitis	3	Q00601	are you looking for a common name for angular cheilitis	0
+152	how to cure angular cheilitis	3	Q01064	are you looking for the definition of angular cheilitis	0
+152	how to cure angular cheilitis	3	Q01124	are you looking for webmd websites or mayo clinic websites about angular cheilits	0
+152	how to cure angular cheilitis	3	Q01125	are you looking for websites that describe angular cheilits	0
+152	how to cure angular cheilitis	3	Q00767	are you looking for best treatments for angular cheilitis	0
+152	how to cure angular cheilitis	3	Q01040	are you looking for symptoms of angular cheilitis	0
+152	how to cure angular cheilitis	3	Q00001	<None>	1
+20	tell me about defender	4	Q00459	are you interested in the isfj personality type	0
+20	tell me about defender	4	Q01251	are you referring to the arcade game called defender	0
+20	tell me about defender	4	Q01429	are you wondering about soccer gear	0
+20	tell me about defender	4	Q01428	are you wondering about soccer	0
+20	tell me about defender	4	Q02639	is your child playing soccer	0
+20	tell me about defender	4	Q03924	would you like to visit a specific web page	0
+20	tell me about defender	4	Q00503	are you interested in the television series defender	0
+20	tell me about defender	4	Q00524	are you interested in video games related to defender	0
+20	tell me about defender	4	Q00663	are you looking for a security system	0
+20	tell me about defender	4	Q00723	are you looking for advice on how to play soccer	0
+20	tell me about defender	4	Q00797	are you looking for defender lyrics	0
+20	tell me about defender	4	Q01195	are you playing soccer	0
+20	tell me about defender	4	Q01213	are you referring to a software	1
+20	tell me about defender	4	Q01220	are you referring to a vehicle	0
+20	tell me about defender	4	Q00001	<None>	0
+44	find me map of usa	2	Q00080	are you interested in a current map of the united states	0
+44	find me map of usa	2	Q02426	do you want to see a map of the continental united states	0
+44	find me map of usa	2	Q02430	do you want to see a political map of the united states	0
+44	find me map of usa	2	Q03034	which language of us map would you prefer	1
+44	find me map of usa	2	Q03145	would you be interested in all of the capitals of the map of the united states	0
+44	find me map of usa	2	Q03559	would you like to know more about us geographic details	0
+44	find me map of usa	2	Q03560	would you like to know more about us roads	0
+44	find me map of usa	2	Q03701	would you like to know where the us is located on the map	0
+44	find me map of usa	2	Q00083	are you interested in a historical map of the united states	0
+44	find me map of usa	2	Q00099	are you interested in a satellite map of the united states	0
+44	find me map of usa	2	Q00272	are you interested in knowning the 50 states in the world	0
+44	find me map of usa	2	Q00301	are you interested in learning more about the us map	0
+44	find me map of usa	2	Q00651	are you looking for a paper version of us map	0
+44	find me map of usa	2	Q00781	are you looking for children coloring books	0
+44	find me map of usa	2	Q01564	do you like to know more about the 50 states on the us map	0
+44	find me map of usa	2	Q02427	do you want to see a map of united states territories	0
+44	find me map of usa	2	Q00001	<None>	0
+51	tell me more about horse hooves	2	Q00025	are you asking about a horses feet	0
+51	tell me more about horse hooves	2	Q02282	do you want to know what horse hooves are made from	0
+51	tell me more about horse hooves	2	Q02864	what problem is your horse having with their hooves	0
+51	tell me more about horse hooves	2	Q02947	what would you like to know about horse hooves	0
+51	tell me more about horse hooves	2	Q00876	are you looking for information about horseshoe	0
+51	tell me more about horse hooves	2	Q03388	would you like to know about horse hooves diseases	0
+51	tell me more about horse hooves	2	Q00069	are you inquiring about the animals hooves	0
+51	tell me more about horse hooves	2	Q00612	are you looking for a diagram of a horse hoof	0
+51	tell me more about horse hooves	2	Q00899	are you looking for information on the anatomy of horse hooves	0
+51	tell me more about horse hooves	2	Q01633	do you need horse hoof care tips	0
+51	tell me more about horse hooves	2	Q01742	do you need your horses hooves trimmed	1
+51	tell me more about horse hooves	2	Q01958	do you want to inquire about horse hooves	0
+51	tell me more about horse hooves	2	Q01980	do you want to know about how horse hooves are grown	0
+51	tell me more about horse hooves	2	Q02149	do you want to know more about horse hooves	0
+51	tell me more about horse hooves	2	Q00001	<None>	0
+79	tell me about voyager	4	Q00453	are you interested in the history of the voyager	1
+79	tell me about voyager	4	Q02339	do you want to know where voyager is now	0
+79	tell me about voyager	4	Q02350	do you want to know which planets voyager has visited	0
+79	tell me about voyager	4	Q03098	which voyager are you interested in	0
+79	tell me about voyager	4	Q03704	would you like to know where the voyager is today	0
+79	tell me about voyager	4	Q00555	are you interested in where the voyager has been	0
+79	tell me about voyager	4	Q00696	are you looking for a specific web page	0
+79	tell me about voyager	4	Q01289	are you referring to the voyager 1 or voyager 2	0
+79	tell me about voyager	4	Q01283	are you referring to the space mission or anything else	0
+79	tell me about voyager	4	Q02156	do you want to know more about star trek voyager	0
+79	tell me about voyager	4	Q02163	do you want to know more about the nasa voyager program	0
+79	tell me about voyager	4	Q02166	do you want to know more about the voyager mission	0
+79	tell me about voyager	4	Q02337	do you want to know where to get a book on the voyager	0
+79	tell me about voyager	4	Q00001	<None>	0
+83	tell me about memory	4	Q00176	are you interested in computer memory	0
+83	tell me about memory	4	Q02549	how to cheat at the game memory	0
+83	tell me about memory	4	Q02646	looking for shops that sell the board game memory	0
+83	tell me about memory	4	Q03110	who was the first to study the brain and memory	0
+83	tell me about memory	4	Q03485	would you like to know how to increase your memory	0
+83	tell me about memory	4	Q00507	are you interested in the type of memories	0
+83	tell me about memory	4	Q00691	are you looking for a specific store	1
+83	tell me about memory	4	Q00831	are you looking for famous people who have great memories	0
+83	tell me about memory	4	Q01121	are you looking for ways to naturally boost your memory	0
+83	tell me about memory	4	Q01440	are you wondering if your memory is reliable	0
+83	tell me about memory	4	Q01463	are you worried about memory loss	0
+83	tell me about memory	4	Q01517	dio you want to know how memory is formed	0
+83	tell me about memory	4	Q01956	do you want to improve your memory	0
+83	tell me about memory	4	Q00001	<None>	0
+256	who is the patron saint of mental illness ?	1	Q00304	are you interested in learning the back story of the patron saint of mental illness	0
+256	who is the patron saint of mental illness ?	1	Q03112	who you like to know who the patron saint of mental illness is	1
+256	who is the patron saint of mental illness ?	1	Q03115	why are you interested in the patron saint of mental illness	0
+256	who is the patron saint of mental illness ?	1	Q03554	would you like to know more about the patron saint of mental illness	0
+256	who is the patron saint of mental illness ?	1	Q01720	do you need to know if there is a patron saint for mental illness	0
+256	who is the patron saint of mental illness ?	1	Q01842	do you want me to tell you who is the patron saint of mental illness	0
+256	who is the patron saint of mental illness ?	1	Q01912	do you want to buy merchandise with the patron saint of mental illness on it	0
+256	who is the patron saint of mental illness ?	1	Q02016	do you want to know all of the patron saints	0
+256	who is the patron saint of mental illness ?	1	Q02237	do you want to know the prayer of that patron saint	0
+256	who is the patron saint of mental illness ?	1	Q02329	do you want to know where the patron saint of mental illness was originated	0
+256	who is the patron saint of mental illness ?	1	Q02407	do you want to pray for someone with mental illness	0
+256	who is the patron saint of mental illness ?	1	Q02435	do you want to see images of her	0
+292	i am interested in history of the electronic medical record	3	Q00118	are you interested in a specific time when electronic medical record keeping started	0
+292	i am interested in history of the electronic medical record	3	Q00285	are you interested in learning about what was used before the electronic medical record was invented	1
+292	i am interested in history of the electronic medical record	3	Q00692	are you looking for a specific time period for	0
+292	i am interested in history of the electronic medical record	3	Q02038	do you want to know how electronic medical record keeping began	0
+292	i am interested in history of the electronic medical record	3	Q02314	do you want to know when the first medical record was record	0
+292	i am interested in history of the electronic medical record	3	Q03305	would you like to buy a book about this topic	0
+292	i am interested in history of the electronic medical record	3	Q03679	would you like to know when the electronic medical record became more widely used	0
+292	i am interested in history of the electronic medical record	3	Q03724	would you like to know who invented the electronic medical record	0
