@@ -3,7 +3,8 @@
 This is the code repository of our team (named "Soda") for the challenge [ConvAI3: Clarifying Questions for Open-Domain Dialogue Systems (ClariQ)](http://convai.io/). Our model adopts "BERT-based" methods for both clarification prediction and question ranking.
 
 ## Requirements
-For Python library dependencies, please follow the ```requirements.txt```:
+Our experiments are based on Ubuntu 16.04 operating system and Python 3.x environment.
+For Python library dependencies, please follow the ```requirements.txt```, or run:
 ```
 pip install requirements.txt
 ```
