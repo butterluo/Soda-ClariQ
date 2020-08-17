@@ -55,6 +55,12 @@ def run_train(args):
     valid_dataloader = DataLoader(valid_dataset, sampler=valid_sampler, 
                                   batch_size=args.batch_size,
                                   collate_fn=collate_fn)
+    # save vocab to log dir
+    if not os.path.exists(args.log_dir):
+        os.makedirs(args.log_dir)
+    processor.tokenizer.save_pretrained(args.log_dir)
+    torch.save(args, "%s/train_args.bin" % (args.log_dir))
+    logging.info("Training/evaluation parameters %s", args)
 
     # set model
     logging.info("initializing model")
@@ -97,7 +103,7 @@ def run_train(args):
 
 def run_test(args):
     task_data = TaskData(task="task1")
-    processor = BertProcessor(vocab_path="%s/vocab.txt" % args.bert_model_dir, do_lower_case=True)
+    processor = BertProcessor(vocab_path="%s/vocab.txt" % args.log_dir, do_lower_case=True)
     
     test_data = task_data.read_data(data_path=args.test_path, 
                                     is_train=False, shuffle=False)
@@ -153,12 +159,6 @@ def main():
     parser.add_argument('--seed', type=int, default=42)
     args = parser.parse_args()
 
-    if not os.path.exists(args.log_dir):
-        os.makedirs(args.log_dir)
-    
-    torch.save(args, "%s/train_args.bin" % (args.log_dir))
-    logging.info("Training/evaluation parameters %s", args)
-    
     if args.do_train:
         run_train(args)
     elif args.do_test:

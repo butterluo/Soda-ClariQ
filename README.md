@@ -22,7 +22,7 @@ For clarification prediction task, run:
 ```
 sh train_classifier.sh
 ```
-The trained model will be stored at the ```log/log_classifier/``` directory. Our trained model can be downloaded from [here](https://drive.google.com/file/d/1t8NjmNqC8NNpPOmWpWfZHE5vg5QRb4_P/view?usp=sharing), please place the unpacked files into the ```log/log_classifier/``` directory.
+The trained model will be stored at the ```log/log_classifier/``` directory. Our trained model can be downloaded from [here](https://drive.google.com/file/d/1xETZwsOv8saR16btWJlBupNShIC4K9rC/view?usp=sharing), please place the unpacked files into the ```log/log_classifier/``` directory.
 
 For question ranking task, run:
 ```
