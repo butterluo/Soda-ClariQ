@@ -22,13 +22,13 @@ For clarification prediction task, run:
 ```
 sh train_classifier.sh
 ```
-The trained model will be stored at the ```log/log_classifier/``` directory. Our trained model can be downloaded from [here](), please decompress it and place into the ```log/log_classifier/``` directory.
+The trained model will be stored at the ```log/log_classifier/``` directory. Our trained model can be downloaded from [here](https://drive.google.com/file/d/1t8NjmNqC8NNpPOmWpWfZHE5vg5QRb4_P/view?usp=sharing), please place the unpacked files into the ```log/log_classifier/``` directory.
 
 For question ranking task, run:
 ```
 sh train_ranker.sh
 ```
-The trained model will be stored at the ```log/log_ranker/``` directory. Our trained model can be downloaded from [here](), please decompress it and place into the ```log/log_rankerl/``` directory.
+The trained model will be stored at the ```log/log_ranker/``` directory. Our trained model can be downloaded from [here](https://drive.google.com/file/d/1oOUxenTDBSYBfzGeAHN0HA7SveqFDzUv/view?usp=sharing), please place the unpacked files into the ```log/log_ranker/``` directory.
 
 ### Testing
 For clarification need predcition, please first set the ```--test_path``` in ```test_classifier.sh``` to specify the file to be testing. The run:
