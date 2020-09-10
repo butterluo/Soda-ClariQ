@@ -51,8 +51,9 @@ class Trainer(object):
             self.model.eval()
             batch = tuple(t.to(self.device) for t in batch)
             with torch.no_grad():
-                input_ids, input_mask, segment_ids, label_ids = batch
-                logits = self.model(input_ids, segment_ids,input_mask)
+                input_ids, input_mask, segment_ids, input_pattern, label_ids = batch
+                logits = self.model(input_ids, token_type_ids=segment_ids, 
+                                attention_mask=input_mask, input_pattern=input_pattern)
             self.outputs.append(logits.cpu().detach())
             self.targets.append(label_ids.cpu().detach())
         
@@ -70,15 +71,16 @@ class Trainer(object):
             torch.cuda.empty_cache()
         return self.result
 
-    def train_epoch(self,data):
+    def train_epoch(self, data):
         batch_loss = []
         self.epoch_reset()
         for step,  batch in enumerate(data):
             self.batch_reset()
             self.model.train()
             batch = tuple(t.to(self.device) for t in batch)
-            input_ids, input_mask, segment_ids, label_ids = batch
-            logits = self.model(input_ids, segment_ids,input_mask)
+            input_ids, input_mask, segment_ids, input_pattern, label_ids = batch
+            logits = self.model(input_ids, token_type_ids=segment_ids, 
+                                attention_mask=input_mask, input_pattern=input_pattern)
             loss = self.criterion(input=logits,target=label_ids)
             
             if self.gradient_accumulation_steps > 1:

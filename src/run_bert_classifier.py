@@ -32,25 +32,30 @@ def run_train(args):
     task_data = TaskData(task="task1")
     processor = BertProcessor(vocab_path="%s/vocab.txt" % args.bert_model_dir, do_lower_case=True)
 
-    train_path = "%s/train.tsv" % args.data_dir
-    train_data = task_data.read_data(data_path=train_path, is_train=True, shuffle=True)
+    train_path = "%s/train.data.txt" % args.data_dir
+    train_data = task_data.read_data(data_path=train_path, is_train=True,
+                                    with_pattern=True, shuffle=True)
     train_examples = processor.create_examples(lines=train_data,
                                                example_type='train')
     train_features = processor.create_features(examples=train_examples,
                                                max_seq_len=args. max_seq_len)
-    train_dataset = processor.create_dataset(train_features, is_sorted=args.sorted)
+    train_dataset = processor.create_dataset(train_features, 
+                                            with_pattern=True, 
+                                            is_sorted=args.sorted)
     train_sampler = SequentialSampler(train_dataset)
     train_dataloader = DataLoader(train_dataset, sampler=train_sampler, 
                                   batch_size=args.batch_size,
                                   collate_fn=collate_fn)
 
-    valid_path = "%s/dev.tsv" % args.data_dir
-    valid_data = task_data.read_data(data_path=valid_path, is_train=True, shuffle=False)
+    valid_path = "%s/dev.data.txt" % args.data_dir
+    valid_data = task_data.read_data(data_path=valid_path, is_train=True, 
+                                    with_pattern=True, shuffle=False)
     valid_examples = processor.create_examples(lines=valid_data,
                                                example_type='valid')
     valid_features = processor.create_features(examples=valid_examples,
                                                max_seq_len=args.max_seq_len)
-    valid_dataset = processor.create_dataset(valid_features)
+    valid_dataset = processor.create_dataset(valid_features,
+                                            with_pattern=True)
     valid_sampler = SequentialSampler(valid_dataset)
     valid_dataloader = DataLoader(valid_dataset, sampler=valid_sampler, 
                                   batch_size=args.batch_size,
@@ -105,13 +110,13 @@ def run_test(args):
     task_data = TaskData(task="task1")
     processor = BertProcessor(vocab_path="%s/vocab.txt" % args.log_dir, do_lower_case=True)
     
-    test_data = task_data.read_data(data_path=args.test_path, 
+    test_data = task_data.read_data(data_path=args.test_path, with_pattern=True,
                                     is_train=False, shuffle=False)
     test_examples = processor.create_examples(lines=test_data,
                                             example_type='test')
     test_features = processor.create_features(examples=test_examples,
                                             max_seq_len=args.max_seq_len)
-    test_dataset = processor.create_dataset(test_features)
+    test_dataset = processor.create_dataset(test_features, with_pattern=True)
     test_sampler = SequentialSampler(test_dataset)
     test_dataloader = DataLoader(test_dataset, sampler=test_sampler, 
                                   batch_size=args.batch_size,
@@ -121,6 +126,7 @@ def run_test(args):
     model = BertForClassifier.from_pretrained(args.log_dir, num_labels=task_data.get_num_labels())
     predictor = Predictor(task=task_data.get_task(), model=model)
     result = predictor.predict(data=test_dataloader)
+    args.output_dir = str(args.output_dir).strip()
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
     task_data.save_predict(raw_data_path=args.test_path, 

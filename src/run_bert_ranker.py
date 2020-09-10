@@ -12,6 +12,7 @@ from src.datasets.data_collator import DefaultDataCollator
 from src.utils import negative_sampling
 from src.utils import results_analyses_tools
 from src.utils import utils
+from src.utils import bm25
 from transformers import BertTokenizer, BertForSequenceClassification
 from transformers.data.processors.utils import InputFeatures
 from torch.utils.data import DataLoader
@@ -81,6 +82,12 @@ def run_train(args):
     ranker.fit(log_dir=args.log_dir)  
 
 
+def get_best_q(query, question_bank, top_n=5):
+    bm25_qids = bm25.get_top_n(query, question_bank, top_n=top_n)
+    best_qid = bm25_qids[0]
+    return best_qid
+
+
 def run_test(args):
     data = pd.read_csv(args.test_path, sep='\t')
     question_bank = pd.read_csv("%s/question_bank.tsv" % args.data_dir, sep="\t")
@@ -124,10 +131,27 @@ def run_test(args):
     with open(run_file_path, 'w') as fo:
         for tid_idx, tid in enumerate(data['topic_id'].unique()):
             all_documents_scores = np.array(softmax_output_by_query[tid_idx])
+            print("tid:", tid)
+            
             top_30_scores_idx = (-all_documents_scores).argsort()[:30]  
-            preds = all_doc_ids[top_30_scores_idx]
+            preds_score = list(all_documents_scores[top_30_scores_idx])
+            preds = list(all_doc_ids[top_30_scores_idx])
+            #print("softmax_score:", preds_score)
+            #print("preds:", preds)
+            #query = data.loc[data['topic_id']==tid, 'initial_request'].tolist()[0]
+            #best_q = get_best_q(query, question_bank)
+            #best_qid = random.choice([best_q, "Q00001"])
+            
+            if preds_score[0] < 0.962:
+                best_qid = "Q00001"
+                preds = preds[:-1]
+                preds.insert(0, best_qid)
+            else:
+                last_qid = "Q00001"
+                preds = preds[:-1]
+                preds.append(last_qid)
             for i, qid in enumerate(preds):    
-                fo.write('{} 0 {} {} {} BERT-based\n'.format(tid, qid, i, len(preds)-i))
+                fo.write('{} 0 {} {} {} BERT-based-v2\n'.format(tid, qid, i, len(preds)-i))
     print("saved results to [%s]" % run_file_path)
 
 

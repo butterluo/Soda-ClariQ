@@ -21,8 +21,9 @@ class Predictor(object):
                 self.model.eval()
                 batch = tuple(t.to(self.device) for t in batch)
                 with torch.no_grad():
-                    input_ids, input_mask, segment_ids, label_ids = batch
-                    logits = self.model(input_ids, segment_ids, input_mask)
+                    input_ids, input_mask, segment_ids, input_pattern, label_ids = batch
+                    logits = self.model(input_ids, token_type_ids=segment_ids, 
+                                attention_mask=input_mask, input_pattern=input_pattern)
                     logits = logits.softmax(-1)
                     y_prob = logits.detach().cpu().numpy()
                     y_pred = np.argmax(y_prob, 1)

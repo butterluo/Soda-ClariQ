@@ -51,9 +51,9 @@ sh eval_clarification_need.sh
 ```
 On dev set, it would produce the output below:
 ```
-Precision:  0.54
-Recall:  0.54
-F1: 0.54
+Precision:  0.56
+Recall:  0.56
+F1: 0.56
 ```
 
 For evaluation on document relevance, please first set ```--experiment_type``` and ```--run_file``` in ```eval_document_relevance.sh```, then run:
@@ -63,16 +63,17 @@ sh eval_document_relevance.sh
 On dev set, it would produce the output below:
 ```
 NDCG1: 0.20364583333333333
-NDCG3: 0.18494246646500168
-NDCG5: 0.17623501136078207
-NDCG10: 0.16108532915720883
-NDCG20: 0.14571769947324514
-P1: 0.2625
-P3: 0.21666666666666665
-P5: 0.20125
-P10: 0.169375
-P20: 0.1284375
-MRR100: 0.349673813551919
+NDCG1: 0.17916666666666667
+NDCG3: 0.1698673632063332
+NDCG5: 0.17016660473940398
+NDCG10: 0.15974870852989007
+NDCG20: 0.14111246110868056
+P1: 0.24375
+P3: 0.2125
+P5: 0.20875000000000002
+P10: 0.175
+P20: 0.1296875
+MRR100: 0.3306496817047153
 ```
 
 For evaluation on question relevance, please first set ```--experiment_type``` and ```--run_file``` in ```eval_question_relevance.sh```, then run:
@@ -81,8 +82,8 @@ sh eval_question_relevance.sh
 ```
 On dev set, it would produce the output below:
 ```
-Recall5: 0.3522886732290757
-Recall10: 0.6246779448621554
-Recall20: 0.7353664421234081
-Recall30: 0.7636166093967951
+Recall5: 0.35443217678434397
+Recall10: 0.6287548679390784
+Recall20: 0.7544103981673641
+Recall30: 0.8176843777997028
 ```
